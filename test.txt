@@ -3,5 +3,3 @@ Bu dosyada değişiklik yaptım
 
 conflit değişikliği-1
 conflict değişikliği-2
-
-Ben bu eşitliği geri alacağım 
