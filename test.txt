@@ -1,2 +1,4 @@
 Bu benim ilk projem
 Bu dosyada değişiklik yaptım
+
+conflict değişikliği-2
